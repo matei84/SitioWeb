@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leonardo\\webapp\\PlatziWebsite\\PlatziWebSite.csproj": {}
+    "C:\\Users\\Leonardo\\webapp\\PlatziWebSite\\PlatziWebSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leonardo\\webapp\\PlatziWebsite\\PlatziWebSite.csproj": {
+    "C:\\Users\\Leonardo\\webapp\\PlatziWebSite\\PlatziWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leonardo\\webapp\\PlatziWebsite\\PlatziWebSite.csproj",
+        "projectUniqueName": "C:\\Users\\Leonardo\\webapp\\PlatziWebSite\\PlatziWebSite.csproj",
         "projectName": "PlatziWebSite",
-        "projectPath": "C:\\Users\\Leonardo\\webapp\\PlatziWebsite\\PlatziWebSite.csproj",
+        "projectPath": "C:\\Users\\Leonardo\\webapp\\PlatziWebSite\\PlatziWebSite.csproj",
         "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leonardo\\webapp\\PlatziWebsite\\obj\\",
+        "outputPath": "C:\\Users\\Leonardo\\webapp\\PlatziWebSite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
