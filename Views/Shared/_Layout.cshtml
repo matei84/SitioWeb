@@ -6,6 +6,7 @@
     <title>@ViewData["Title"] - PlatziWebSite</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="icon" type = "imagenes/png" href="imagenes/favicon.png" />
 </head>
 <body>
     <header>
@@ -24,6 +25,9 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="test1">test1</a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -34,6 +38,7 @@
             @RenderBody()
         </main>
     </div>
+    <figure><img src="~/imagenes/evolucion_SP500.jpg"></figure>
 
     <footer class="border-top footer text-muted">
         <div class="container">

@@ -35,3 +35,5 @@ C:\Users\Leonardo\webapp\PlatziWebsite\obj\Debug\netcoreapp3.1\PlatziWebSite.dll
 C:\Users\Leonardo\webapp\PlatziWebsite\obj\Debug\netcoreapp3.1\PlatziWebSite.pdb
 C:\Users\Leonardo\webapp\PlatziWebsite\obj\Debug\netcoreapp3.1\PlatziWebSite.genruntimeconfig.cache
 C:\Users\Leonardo\webapp\PlatziWebsite\obj\Debug\netcoreapp3.1\PlatziWebSite.csproj.CopyComplete
+C:\Users\Leonardo\webapp\PlatziWebSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutLeo.cshtml.g.cs
+C:\Users\Leonardo\webapp\PlatziWebSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\test1.cshtml.g.cs

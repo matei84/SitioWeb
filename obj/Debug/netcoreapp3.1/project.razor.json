@@ -20551,6 +20551,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Leonardo\\webapp\\PlatziWebSite\\Views\\Home\\test1.cshtml",
+      "TargetPath": "Views\\Home\\test1.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Leonardo\\webapp\\PlatziWebSite\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
